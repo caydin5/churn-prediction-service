@@ -38,7 +38,7 @@ This project shows that foundation in a SaaS customer-retention context.
 - graceful degradation when model artifact is missing
 - model hot-reload without server restart
 - model interpretability via logistic regression coefficients
-- unit and API tests with pytest (24 tests)
+- unit and API tests with pytest (25 tests)
 
 ---
 
